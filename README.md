@@ -1,9 +1,5 @@
-Introduction 
-
 <h1 align="center">Hi 👋, I'm Mu30Tafa</h1>
-<h3 align="center">A IT Manager From Afghanistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mu30tafa&label=Profile%20views&color=0e75b6&style=flat" alt="mu30tafa" /> </p>
+<h3 align="center">An IT Manager From Afghanistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mu30tafa" alt="mu30tafa" /></a> </p>
 
